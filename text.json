@@ -1,0 +1,18 @@
+{
+  "approver": [
+    [
+      "0",
+      {
+        "username": "john.doe",
+        "email": "john.doe@klarna.com"
+      }
+    ],
+    [
+      "0",
+      {
+        "username": "christ.hemgren",
+        "email": "christ.hemgren@klarna.com"
+      }
+    ]
+  ]
+}
