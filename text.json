@@ -4,7 +4,8 @@
       "0",
       {
         "username": "aaaaa",
-        "email": "john.doe@klarna.com"
+        "email": "john.doe@klarna.com",
+	"password": "adfadsfadsfs"
       }
     ],
     [
